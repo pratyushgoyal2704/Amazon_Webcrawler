@@ -1,2 +1,4 @@
 # Amazon_Webcrawler
-Made a Webscrapper using Python's framework Scrapy that crawls and scraps data off https://www.amazon.in/s?k=iphones&ref=nb_sb_noss_2 link.
+Made a Webscrapper using Python's framework Scrapy that scraps data off https://www.amazon.in/s?k=iphones&ref=nb_sb_noss_2 link.
+A 'spider' crawls the webpage and collects data like Phone name, Price and Ratings. 
+
